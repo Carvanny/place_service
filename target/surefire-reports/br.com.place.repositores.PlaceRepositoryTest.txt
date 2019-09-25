@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: br.com.place.repositores.PlaceRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.262 s <<< FAILURE! - in br.com.place.repositores.PlaceRepositoryTest
+testFetchData(br.com.place.repositores.PlaceRepositoryTest)  Time elapsed: 1.219 s  <<< ERROR!
+org.springframework.dao.InvalidDataAccessApiUsageException: Cannot autogenerate id of type java.lang.Long for entity of type br.com.place.model.Place!
+	at br.com.place.repositores.PlaceRepositoryTest.setUp(PlaceRepositoryTest.java:39)
+
+testDataUpdate(br.com.place.repositores.PlaceRepositoryTest)  Time elapsed: 0.032 s  <<< ERROR!
+org.springframework.dao.InvalidDataAccessApiUsageException: Cannot autogenerate id of type java.lang.Long for entity of type br.com.place.model.Place!
+	at br.com.place.repositores.PlaceRepositoryTest.setUp(PlaceRepositoryTest.java:39)
+

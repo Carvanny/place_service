@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.place.PlaceServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.395 s - in br.com.place.PlaceServiceApplicationTests
