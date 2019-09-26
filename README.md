@@ -16,11 +16,11 @@ CRUD project done in Rest using Springboot, Lombok, MongoDB and JUnit Testing
  
  # Usage and API
  You can call service rest use:
- GET ALL - 
- GET ID - 
- POST - 
- PUT - 
- DELETE
+ - GET ALL - https://serviceplace.herokuapp.com/api/v1/place
+ - GET ID - https://serviceplace.herokuapp.com/api/v1/place/{Id}
+ - POST - https://serviceplace.herokuapp.com/api/v1/place
+ - PUT - https://serviceplace.herokuapp.com/api/v1/place/{Id}
+ - DELETE - https://serviceplace.herokuapp.com/api/v1/place/{Id}
  
  # Documentation Swagger
- The documentation this service is diponibility http://***/swagger-ui.html
+ The documentation this service is diponibility https://serviceplace.herokuapp.com/swagger-ui.html
